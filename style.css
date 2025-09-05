@@ -1,0 +1,15 @@
+/* catppuccin mocha blue theme */
+body {
+  background-color: #1e1e2e; /* base */
+  color: #cdd6f4;            /* text */
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+h1 {
+  color: #89b4fa; /* blue accent */
+}
+
+p {
+  color: #bac2de; /* subtle text */
+}
